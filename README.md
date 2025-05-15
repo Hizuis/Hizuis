@@ -38,6 +38,4 @@ Bienvenido a mi perfil de GitHub. Actualmente soy estudiante de desarrollo web F
 
 - 📧 Email: [leal47164@gmail.com](mailto:leal47164@gmail.com)
 
----
 
-> 💡 *Este README fue creado con sintaxis Markdown. Más en [Markdown Guide](https://www.markdownguide.org/basic-syntax/).*
